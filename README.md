@@ -64,6 +64,6 @@ public class SecurityConfiguration {
 }
 ```
 
-- Before continuing, discuss with the rest of the class what this new class is supposed to do.
+- Before continuing, discuss with the rest of the group what you think this new code is supposed to do.
 - Visit `localhost:8080/members` and see what happens. Introduce the user and password and inspect the HTTP Requests.
 - Visit `localhost:5173` and see what happens. Fix the `NameApi.js` class in the frontend to make it work with HTTP Basic Authentication.
